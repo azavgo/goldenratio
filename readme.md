@@ -4,7 +4,7 @@
 1. Add to Cargo.toml: 
 ```Toml
     [dependencies]
-    goldenratio = {git = "https://github.com/azavgo/goldenratio"}
+    goldenratio = {git = "https://github.com/azavgo/goldenratio", branch = "main"}
 ```
 2. Use one of the methods from the library collection to calculate golden ratio number: 
 ```Rust
